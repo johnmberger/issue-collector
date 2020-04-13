@@ -1,6 +1,7 @@
-# issue-collector
+# Cardlytics Issue Collector
 
 ## Project setup
+To set up the project (after you clone it), run:
 ```
 npm install
 ```
@@ -9,16 +10,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
